@@ -47,4 +47,5 @@ npm install
 npm start
 
 🔒 Security Note
-This project uses .env files and a root-level .gitignore to ensure that sensitive API keys are never leaked to GitHub.
+
+This project uses .env files and i have deleted to ensure that sensitive API keys are never leaked to GitHub.
